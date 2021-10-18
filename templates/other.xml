@@ -1,0 +1,18 @@
+<templateSet group="other">
+  <template name="createAndShowGui" value="private void initGui() {&#10;    createComponents();&#10;    layoutComponents();&#10;    handleEvents();&#10;}&#10;&#10;private void createComponents() {&#10;&#10;}&#10;&#10;private void layoutComponents() {&#10;&#10;}&#10;&#10;private void handleEvents() {&#10;&#10;}&#10;&#10;private static void createAndShowGui() {&#10;    JFrame frame = new JFrame();&#10;&#10;    // TODO add central panel&#10;&#10;    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;    frame.setSize(500, 500);&#10;    frame.setLocationRelativeTo(null);&#10;    frame.setVisible(true);&#10;}&#10;&#10;public static void main(String[] args) {&#10;    SwingUtilities.invokeLater(new Runnable() {&#10;        public void run() {&#10;            createAndShowGui();&#10;        }&#10;    });&#10;}" description="Create and show frame." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);" description="Create logger" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="lombok" value="import lombok.Getter;&#10;import lombok.Setter;&#10;&#10;@Getter&#10;@Setter" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

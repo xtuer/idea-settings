@@ -1,0 +1,18 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/data/jpa/spring-jpa.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/70573892_spring-jpa.xsd" />
+    <resource url="http://www.springframework.org/schema/data/mongo" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/73ef5832_spring-mongo.xsd" />
+    <resource url="http://www.springframework.org/schema/data/repository/spring-repository.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/977a1048_spring-repository.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/9b192256_xml.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/27c071c8_web-app_3_1.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2016.1/extResources/27c071c8_web-app_3_1.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/38fbf776_spring-beans-4.3.xsd" />
+    <resource url="https://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/9f766ca_spring-context.xsd" />
+    <resource url="https://www.springframework.org/schema/data/repository/spring-repository.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/47bf0285_spring-repository.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/93b79a08_spring-tool-4.3.xsd" />
+  </component>
+</application>
