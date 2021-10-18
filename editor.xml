@@ -3,6 +3,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="SHOW_EXTERNAL_ANNOTATIONS_INLINE" value="false" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
@@ -17,6 +18,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -41,6 +44,10 @@
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
